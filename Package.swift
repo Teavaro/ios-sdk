@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FunnelConnect",
-            url: "https://github.com/Teavaro/ios-sdk/releases/download/0.1.57/FunnelConnect-0.1.57.zip",
-            checksum: "1adfeafc8b32d899d165643bdcd12c791b721b2aba514985c07bfc62ba5bd221"
+            url: "https://github.com/Teavaro/ios-sdk/releases/download/0.1.59/FunnelConnect-0.1.59.zip",
+            checksum: "dd5bb791e4a8a98b591bd3ca766bf1e360e406c1f97379d47a57e1079b769201"
         )
     ] 
 )
