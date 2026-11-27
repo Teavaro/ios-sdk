@@ -1,8 +1,0 @@
-framework module "FunnelConnect" {
-    umbrella header "FunnelConnect.h"
-
-    export *
-    module * { export * }
-
-    use Foundation
-}
